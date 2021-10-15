@@ -5,6 +5,8 @@ map
 
 https://drive.google.com/file/d/0B9kPGz2YTYNlUU5JQjlqU2dLSW8/view?usp=sharing
 
+  
+
 Linking Chabots to algorithims and api services
 
 
@@ -19,6 +21,9 @@ https://www.hpcwire.com/off-the-wire/oqc-delivers-the-uks-first-quantum-computin
 
 https://www.freecodecamp.org/news/the-programming-language-pipeline-91d3f449c919/
 
+    QS https://whimsical.com/qs-WHGUXinRAyT7gGMQHRrjGb
+    
+    
 Inform + JL
 
 https://lucid.app/lucidchart/invitations/accept/inv_70455409-5200-400e-ae19-9f9fa1923b85?view_items=15Xe3SOBGyFM
@@ -31,7 +36,9 @@ https://itsfoss.com/create-interactive-fiction/
 
 https://twitter.com/zephyr9673/status/1423281257446658054?s=20
 
-
+    InformJL https://lucid.app/lucidchart/efd6eae8-a05a-4a13-9b2f-66c8ce87a132/edit?invitationId=inv_e39c53d2-d44c-4383-beaf-5c8e064e6436
+    
+    
 CitSci
 
 https://www.biodiversa.org/1770
